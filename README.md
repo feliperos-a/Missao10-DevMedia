@@ -1,2 +1,17 @@
 # Miss-o10-DevMedia
-Missão 10: Construindo um site responsivo para uma clínica.
+
+Projeto construído por Felipe Rosa na missão 10 da DevMedia: Construindo um site responsivo para uma clínica.
+
+[🔗 Clique aqui para acessar]()
+
+## 💻 Tecnologias 
+
+- HTML
+- CSS
+
+## ☎️ Contato
+
+felipe.rosa@outlook.com
+(49) 99994-1061
+
+[Linkedin](https://www.linkedin.com/in/ifeliperosa/)
