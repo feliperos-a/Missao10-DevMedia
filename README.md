@@ -1,4 +1,4 @@
-# Miss-o10-DevMedia
+# Missão10-DevMedia
 
 Projeto construído por Felipe Rosa na missão 10 da DevMedia: Construindo um site responsivo para uma clínica.
 
