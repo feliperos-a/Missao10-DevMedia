@@ -2,7 +2,7 @@
 
 Projeto construído por Felipe Rosa na missão 10 da DevMedia: Construindo um site responsivo para uma clínica.
 
-[🔗 Clique aqui para acessar]()
+[🔗 Clique aqui para acessar](https://feliperos-a.github.io/Missao10-DevMedia/)
 
 ## 💻 Tecnologias 
 
